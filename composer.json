@@ -1,12 +1,11 @@
 {
     "name": "yosymfony/php-package-skeleton",
-    "description": "{{package_description}}",
+    "description": "",
     "type": "library",
     "keywords": [
-        "yosymfony",
-        "{{package_name}}"
+        "yosymfony"
     ],
-    "homepage": "http://github.com/yosymfony/{{package_name}}",
+    "homepage": "http://github.com/yosymfony/",
     "license": "MIT",
     "authors": [
         {

@@ -6,8 +6,14 @@
 This is where your description should go. 
 
 ## About this skeleton
-Replace `{{package_name}}`, `{{package_description}}` with their correct values
-in `composer.json`, `README.md` and `phpunit.xml.dist`. 
+
+**Installation**
+
+```bash
+composer create-project yosymfony/php-package-skeleton --prefer-source your-package
+```
+
+Review the files `composer.json`, `README.md` and `phpunit.xml.dist`. 
 Delete the file `.gitkeep` from folders `src` and `tests`.Then, delete this section.
 
 ## Requires
