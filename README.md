@@ -10,7 +10,7 @@ This is where your description should go.
 **Installation**
 
 ```bash
-composer create-project yosymfony/php-package-skeleton --prefer-source your-package
+composer create-project yosymfony/php-package-skeleton your-package
 ```
 
 Review the files `composer.json`, `README.md` and `phpunit.xml.dist`. 
